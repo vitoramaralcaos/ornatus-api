@@ -18,10 +18,10 @@ Ele irá executar as duas migrations:
 2023_03_16_185213_create_products_table
 2023_03_16_204817_create_requests_table
 
-Referentes as tabelas Produtos (products) e Pedidos (requests)
+AS migrations são referente as tabelas Produtos (products) e Pedidos (requests)
 
 
-Depois que as tabelas são criados, podemos executar o seeder para popular a base de dados com alguns produtos e pedidos.
+Depois que as tabelas forem criadas, podemos executar o seeder para popular a base de dados com alguns produtos e pedidos.
 
 Esse comando irá executar dois seeder para popular com 50 produtos e 40 pedidos:
 
